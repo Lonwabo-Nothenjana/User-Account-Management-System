@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1764881835 source:c:\users\liode\downloads\c++\why\main.cpp
+	<iostream>
+	<string>
+	<iomanip>
+	<fstream>
+	<cctype>
+	<limits>
+
